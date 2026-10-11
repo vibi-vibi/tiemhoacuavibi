@@ -1,0 +1,17 @@
+{
+  "name": "Tiệm Hoa Của Vibi - Hoa Tươi Nghệ Thuật",
+  "short_name": "Tiệm Hoa Vibi",
+  "description": "Không gian hoa tươi nghệ thuật, lãng mạn và quà tặng tinh tế trao gửi yêu thương.",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#fff7f8",
+  "background_color": "#fff7f8",
+  "display": "standalone",
+  "start_url": "/index.html",
+  "lang": "vi"
+}

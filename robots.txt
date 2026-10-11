@@ -1,0 +1,10 @@
+# Cho phep tat ca cac robot tim kiem (Google, Bing, Yahoo...) duoc quet web
+User-agent: *
+Allow: /
+
+# Cam robot quet vao cac file khong can thiet
+Disallow: /site.webmanifest
+Disallow: /404.html
+
+# Khai bao duong dan so do trang web chinh thuc de Google quet nhanh nhat
+Sitemap: https://tiemhoacuavibi.com

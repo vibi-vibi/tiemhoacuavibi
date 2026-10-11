@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org">
+  <!-- 1. Trang Chủ -->
+  <url>
+    <loc>https://tiemhoacuavibi.com</loc>
+    <priority>1.00</priority>
+  </url>
+  
+  <!-- 2. Danh Mục Hoa Tươi -->
+  <url>
+    <loc>https://tiemhoacuavibi.com</loc>
+    <priority>0.80</priority>
+  </url>
+  
+  <!-- 3. Danh Mục Thiết Kế Hoa -->
+  <url>
+    <loc>https://tiemhoacuavibi.com</loc>
+    <priority>0.80</priority>
+  </url>
+  
+  <!-- 4. Danh Mục Quà Tặng -->
+  <url>
+    <loc>https://tiemhoacuavibi.com</loc>
+    <priority>0.80</priority>
+  </url>
+  
+  <!-- 5. Trang Liên Hệ -->
+  <url>
+    <loc>https://tiemhoacuavibi.com</loc>
+    <priority>0.80</priority>
+  </url>
+  
+  <!-- 6. Trang Góc Chia Sẻ (Kiến Thức) -->
+  <url>
+    <loc>https://tiemhoacuavibi.com</loc>
+    <priority>0.70</priority>
+  </url>
+  
+  <!-- 7. Trang Giới Thiệu (Về Chúng Tôi) -->
+  <url>
+    <loc>https://tiemhoacuavibi.com</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- 8. Trang Chính Sách Bảo Mật -->
+  <url>
+    <loc>https://tiemhoacuavibi.com</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <!-- 9. Trang Điều Khoản Dịch Vụ -->
+  <url>
+    <loc>https://tiemhoacuavibi.com</loc>
+    <priority>0.50</priority>
+  </url>
+</urlset>
