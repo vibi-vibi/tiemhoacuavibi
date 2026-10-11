@@ -1,56 +1,60 @@
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://sitemaps.org">
-  <!-- 1. Trang Chủ -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- 1. Trang chủ -->
   <url>
-    <loc>https://tiemhoacuavibi.com</loc>
+    <loc>https://tiemhoacuavibi.com/</loc>
     <priority>1.00</priority>
   </url>
-  
-  <!-- 2. Danh Mục Hoa Tươi -->
+
+  <!-- 2. Trang hoa tươi -->
   <url>
-    <loc>https://tiemhoacuavibi.com</loc>
+    <loc>https://tiemhoacuavibi.com/hoa-tuoi.html</loc>
     <priority>0.80</priority>
   </url>
-  
-  <!-- 3. Danh Mục Thiết Kế Hoa -->
+
+  <!-- 3. Trang bó hoa -->
   <url>
-    <loc>https://tiemhoacuavibi.com</loc>
+    <loc>https://tiemhoacuavibi.com/bo-hoa.html</loc>
     <priority>0.80</priority>
   </url>
-  
-  <!-- 4. Danh Mục Quà Tặng -->
+
+  <!-- 4. Trang quà tặng -->
   <url>
-    <loc>https://tiemhoacuavibi.com</loc>
+    <loc>https://tiemhoacuavibi.com/qua-tang.html</loc>
     <priority>0.80</priority>
   </url>
-  
-  <!-- 5. Trang Liên Hệ -->
+
+  <!-- 5. Trang liên hệ -->
   <url>
-    <loc>https://tiemhoacuavibi.com</loc>
+    <loc>https://tiemhoacuavibi.com/lien-he.html</loc>
     <priority>0.80</priority>
   </url>
-  
-  <!-- 6. Trang Góc Chia Sẻ (Kiến Thức) -->
+
+  <!-- 6. Góc chia sẻ -->
   <url>
-    <loc>https://tiemhoacuavibi.com</loc>
-    <priority>0.70</priority>
-  </url>
-  
-  <!-- 7. Trang Giới Thiệu (Về Chúng Tôi) -->
-  <url>
-    <loc>https://tiemhoacuavibi.com</loc>
+    <loc>https://tiemhoacuavibi.com/goc-chia-se.html</loc>
     <priority>0.70</priority>
   </url>
 
-  <!-- 8. Trang Chính Sách Bảo Mật -->
+  <!-- 7. Trang giới thiệu -->
   <url>
-    <loc>https://tiemhoacuavibi.com</loc>
+    <loc>https://tiemhoacuavibi.com/ve-chung-toi.html</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- 8. Chính sách bảo mật -->
+  <url>
+    <loc>https://tiemhoacuavibi.com/bao-mat.html</loc>
     <priority>0.50</priority>
   </url>
 
-  <!-- 9. Trang Điều Khoản Dịch Vụ -->
+  <!-- 9. Điều khoản dịch vụ -->
   <url>
-    <loc>https://tiemhoacuavibi.com</loc>
+    <loc>https://tiemhoacuavibi.com/dieu-khoan.html</loc>
     <priority>0.50</priority>
   </url>
+
 </urlset>
+```
