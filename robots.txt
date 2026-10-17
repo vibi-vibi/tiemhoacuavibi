@@ -7,4 +7,4 @@ Disallow: /site.webmanifest
 Disallow: /404.html
 
 # Khai bao duong dan so do trang web chinh thuc de Google quet nhanh nhat
-Sitemap: https://puerpeugox-max.za.com
+Sitemap: https://puerpeugox-max.za.com/

@@ -4,55 +4,55 @@
 
   <!-- 1. Trang chủ -->
   <url>
-    <loc>https://puerpeugox-max.za.com/</loc>
+    <loc>https://puerpeugox-max.za.com//</loc>
     <priority>1.00</priority>
   </url>
 
   <!-- 2. Trang hoa tươi -->
   <url>
-    <loc>https://puerpeugox-max.za.com/hoa-tuoi.html</loc>
+    <loc>https://puerpeugox-max.za.com//hoa-tuoi.html</loc>
     <priority>0.80</priority>
   </url>
 
   <!-- 3. Trang bó hoa -->
   <url>
-    <loc>https://puerpeugox-max.za.com/bo-hoa.html</loc>
+    <loc>https://puerpeugox-max.za.com//bo-hoa.html</loc>
     <priority>0.80</priority>
   </url>
 
   <!-- 4. Trang quà tặng -->
   <url>
-    <loc>https://puerpeugox-max.za.com/qua-tang.html</loc>
+    <loc>https://puerpeugox-max.za.com//qua-tang.html</loc>
     <priority>0.80</priority>
   </url>
 
   <!-- 5. Trang liên hệ -->
   <url>
-    <loc>https://puerpeugox-max.za.com/lien-he.html</loc>
+    <loc>https://puerpeugox-max.za.com//lien-he.html</loc>
     <priority>0.80</priority>
   </url>
 
   <!-- 6. Góc chia sẻ -->
   <url>
-    <loc>https://puerpeugox-max.za.com/goc-chia-se.html</loc>
+    <loc>https://puerpeugox-max.za.com//goc-chia-se.html</loc>
     <priority>0.70</priority>
   </url>
 
   <!-- 7. Trang giới thiệu -->
   <url>
-    <loc>https://puerpeugox-max.za.com/ve-chung-toi.html</loc>
+    <loc>https://puerpeugox-max.za.com//ve-chung-toi.html</loc>
     <priority>0.70</priority>
   </url>
 
   <!-- 8. Chính sách bảo mật -->
   <url>
-    <loc>https://puerpeugox-max.za.com/bao-mat.html</loc>
+    <loc>https://puerpeugox-max.za.com//bao-mat.html</loc>
     <priority>0.50</priority>
   </url>
 
   <!-- 9. Điều khoản dịch vụ -->
   <url>
-    <loc>https://puerpeugox-max.za.com/dieu-khoan.html</loc>
+    <loc>https://puerpeugox-max.za.com//dieu-khoan.html</loc>
     <priority>0.50</priority>
   </url>
 
